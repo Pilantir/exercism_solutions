@@ -1,0 +1,4 @@
+/home/aerandir/exercism/cpp/vehicle-purchase/CMakeFiles/vehicle-purchase.dir
+/home/aerandir/exercism/cpp/vehicle-purchase/CMakeFiles/test_vehicle-purchase.dir
+/home/aerandir/exercism/cpp/vehicle-purchase/CMakeFiles/edit_cache.dir
+/home/aerandir/exercism/cpp/vehicle-purchase/CMakeFiles/rebuild_cache.dir
