@@ -1,0 +1,20 @@
+{
+	"name": "interest-is-interesting-Debug@interest-is-interesting",
+	"directory": "/home/aerandir/exercism/cpp/interest-is-interesting",
+	"files": [ { "git": 1 } ],
+	"build": {
+		"directory": "/home/aerandir/exercism/cpp/interest-is-interesting",
+		"default_target": "all",
+		"clean_target": "clean",
+		"build": "/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  all",
+		"clean": "/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  clean",
+		"quick": "/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  install",
+		"targets":[
+			 {"name":"all", "build_cmd":"/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  all"}
+			,{"name":"clean", "build_cmd":"/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  clean"}
+			,{"name":"interest-is-interesting", "build_cmd":"/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  interest-is-interesting"}
+			,{"name":"interest-is-interesting/fast", "build_cmd":"/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  interest-is-interesting/fast"}
+			,{"name":"test_interest-is-interesting", "build_cmd":"/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  test_interest-is-interesting"}
+			,{"name":"rebuild_cache", "build_cmd":"/usr/bin/make -C \"/home/aerandir/exercism/cpp/interest-is-interesting\"  rebuild_cache"}
+	] }
+}
